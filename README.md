@@ -1,6 +1,6 @@
 # RSA Factoring Challenge
 
-This project focuses on(complete)
+This project involves factoring large numbers into prime components, challenging participants to efficiently break RSA encryption.
 
 ## Advanced Tasks:
 
