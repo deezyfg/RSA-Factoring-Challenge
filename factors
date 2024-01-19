@@ -30,5 +30,5 @@ try:
             value = int(line.split('\n')[0])
             factorize(value)
             line = file.readline()
-except:
+except IndexError:
     pass
