@@ -6,7 +6,7 @@ This project involves factoring large numbers into prime components, challenging
 
 Before you continue reading, start this song in the background :)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tGSUjuSBt1A?si=o8lYcHauWNuRzwjL" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tGSUjuSBt1A?si=o8lYcHauWNuRzwjL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Mission
 
@@ -16,7 +16,7 @@ We have sniffed an unsecured network and found numbers that are used to encrypt 
 
 **Read or watch:**
 
-* [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem%29)
+* [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
 * [How does HTTPS provide security?](https://stackoverflow.com/questions/3968095/how-does-https-provide-security)
 * [Prime Factorization](https://privacycanada.net/mathematics/prime-factorization/)
 * [Why RSA?](https://jaredatandi.hashnode.dev/rsa-factoring)
