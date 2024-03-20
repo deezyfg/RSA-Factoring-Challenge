@@ -2,6 +2,31 @@
 
 This project involves factoring large numbers into prime components, challenging participants to efficiently break RSA encryption.
 
+## Background Context
+
+Before you continue reading, start this song in the background :)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tGSUjuSBt1A?si=o8lYcHauWNuRzwjL" frameborder="0" allowfullscreen></iframe>
+
+### Mission
+
+We have sniffed an unsecured network and found numbers that are used to encrypt very important documents. It seems that those numbers are not always generated using large enough prime numbers. Your mission should you choose to accept it, is to factorize these numbers as fast as possible before the target fixes this bug on their server - so that we can decode the encrypted documents.
+
+## Resources
+
+**Read or watch:**
+
+* [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem%29)
+* [How does HTTPS provide security?](https://stackoverflow.com/questions/3968095/how-does-https-provide-security)
+* [Prime Factorization](https://privacycanada.net/mathematics/prime-factorization/)
+* [Why RSA?](https://jaredatandi.hashnode.dev/rsa-factoring)
+
+## Requirements
+
+### General
+* You can choose the language of your choice.
+* OS needs to be Standard Ubuntu 20.04 LTS/
+
 ## Advanced Tasks:
 
 ### 0. Factorize all the things!
@@ -36,3 +61,11 @@ This task is the same as task 0, except:
 How far can you go in less than 5 seconds?
 
 * Read: [RSA Factoring Challenge](https://en.wikipedia.org/wiki/RSA_Factoring_Challenge)
+
+
+## Compile C function:
+
+To compile the C function, execute the following command:
+`cc -fPIC -shared -o lib_factors_functions.so factors_functions.c`
+
+This command generates a shared object file (`lib_factors_functions.so`) from the `factors_functions.c` source file.
