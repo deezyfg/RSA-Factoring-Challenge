@@ -4,9 +4,7 @@ This project involves factoring large numbers into prime components, challenging
 
 ## Background Context
 
-Before you continue reading, start this song in the background :)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tGSUjuSBt1A?si=o8lYcHauWNuRzwjL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Before you continue reading, [start this song in the background :)](https://www.youtube.com/watch?v=tGSUjuSBt1A)
 
 ### Mission
 
